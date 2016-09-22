@@ -1,5 +1,5 @@
 {
-  "name": "@segment/analytics.js-integration-kenshoo",
+  "name": "@astronomerio/analytics.js-integration-kenshoo",
   "description": "The Kenshoo analytics.js integration.",
   "version": "2.0.0",
   "keywords": [
